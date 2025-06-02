@@ -23,5 +23,5 @@ A simple RGB color picker built using **HTML** and **JavaScript DOM** manipulati
 - Building interactive UI using **pure JS** (no libraries)
 - Random number generation and DOM updates
 
-## Note:
+## Note
 - This what i learned from Sandhika Galih about DOM (Document Object Model)
